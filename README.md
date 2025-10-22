@@ -32,6 +32,7 @@ Switch-case Statements
 📂 Project Structure
 
 CalculatorApplication.java // Main application file
+
 README.md // Project documentation
 
 ===============================
